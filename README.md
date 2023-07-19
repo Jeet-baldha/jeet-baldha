@@ -1,7 +1,9 @@
+<img width = 100% src = "https://www.imaginarycloud.com/blog/content/images/2023/03/MERN.webp" >
 <h1 align="center">Hi 👋, I'm Jeet Baldha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-baldha&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-baldha" /> </p>
+
 
 - 🌱 I’m currently learning **Full stack web devlopment**
 
