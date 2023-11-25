@@ -1,8 +1,12 @@
 <img width = 100% src = "https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png" >
 <h1 align="center">Hi 👋, I'm Jeet Baldha</h1>
 <h3 align="center">A passionate Fullsatck webdeveloper from India</h3>
-<p align="left"> <img src="https://drive.google.com/file/d/1xy0vO24CHB3H0roq30vADDX7SNkDJOtl/view?usp=drive_link" alt="jeet-baldha" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-baldha&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-baldha" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet-baldha" alt="jeet-baldha" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jeetbaldha26" target="blank"><img src="https://img.shields.io/twitter/follow/jeetbaldha26?logo=twitter&style=for-the-badge" alt="jeetbaldha26" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://jeetportfolio.netlify.app/](https://jeetportfolio.netlify.app/)
 
@@ -18,9 +22,10 @@
 <p align="left">
 <a href="https://twitter.com/jeetbaldha26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeetbaldha26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeet baldha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet baldha" height="30" width="40" /></a>
+<a href="https://instagram.com/jeet_baldha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeet_baldha_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeet_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeet_12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jeetbaldha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeetbaldha" height="30" width="40" /></a>
-<a href="https://discord.gg/jeet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jeet_" height="30" width="40" /></a>
+<a href="https://discord.gg/baldha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baldha_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
