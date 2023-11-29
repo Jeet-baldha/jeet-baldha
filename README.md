@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ajWclHG5bz0NruN7SZvS_VYfZIRYrDEh/view?usp=drive_link](https://drive.google.com/file/d/1ajWclHG5bz0NruN7SZvS_VYfZIRYrDEh/view?usp=drive_link)
 
-- ⚡ Fun fact **chai is love**
+- ⚡ Fun fact **Chai: My daily comfort joy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
