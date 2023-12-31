@@ -1,6 +1,6 @@
 <img width = 100% src = "https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png" >
 <h1 align="center">Hi 👋, I'm Jeet Baldha</h1>
-<h3 align="center">A passionate Fullsatck webdeveloper from India</h3>
+<h3 align="center">A passionate Fullsatck web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet-baldha" alt="jeet-baldha" /></a> </p>
 
