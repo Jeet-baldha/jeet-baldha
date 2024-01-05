@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jeetbaldha26" target="blank"><img src="https://img.shields.io/twitter/follow/jeetbaldha26?logo=twitter&style=for-the-badge" alt="jeetbaldha26" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://jeetportfolio.netlify.app/](https://jeetportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jeetportfolio.netlify.app/](https://jeetbaldha.tech/)
 
 - 💬 Ask me about **react, node, mongoDb and express**
 
