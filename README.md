@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/jeetbaldha26" target="blank"><img src="https://img.shields.io/twitter/follow/jeetbaldha26?logo=twitter&style=for-the-badge" alt="jeetbaldha26" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://jeetportfolio.netlify.app/](https://jeetbaldha.tech/)
+- 👨‍💻 All of my projects are available at [jeetbaldha.tech](https://jeetbaldha.tech/)
 
 - 💬 Ask me about **react, node, mongoDb and express**
 
 - 📫 How to reach me **jeetbaldha12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ajWclHG5bz0NruN7SZvS_VYfZIRYrDEh/view?usp=drive_link](https://drive.google.com/file/d/1ajWclHG5bz0NruN7SZvS_VYfZIRYrDEh/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ShyZXl0BfA2WToVIT0k655NZOKTDEL8X/view?usp=sharing)
 
 - ⚡ Fun fact **Chai: My daily comfort joy.**
 
