@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jeetbaldha12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gz28sFwX4aZdFETtpbccq6RAC1CwdUx0/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nC91LdvZX387t733KTE9C3HRvB7CHQBH/view?usp=sharing)
 
 - ⚡ Fun fact **Chai: My daily comfort joy.**
 
